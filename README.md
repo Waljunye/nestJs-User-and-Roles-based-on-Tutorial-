@@ -31,7 +31,7 @@
 ```bash
 $ npm install
 ```
-## Required .development.env or .production.env
+## Required .development.env or .production.env file
 
 ```.dotenv
 PORT=...
